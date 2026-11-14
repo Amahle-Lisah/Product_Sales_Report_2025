@@ -19,6 +19,7 @@ public class RunAppClass {
         // Each row = a year, each column = a quarter
         int[][] productSales = {
             {300, 150, 700},   // Year 1
+            
             {250, 200, 600}    // Year 2
         };
 
